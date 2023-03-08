@@ -1,0 +1,28 @@
+.buttonBox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+button {
+    height: 100px;
+    width: 300px;
+    margin: 20px;
+    font-size: 20px;
+    cursor: pointer;
+    border-bottom-color: #333333;
+    border-right-color: #555555;
+    border-left-color: #BBBBBB;
+    border-top-color: #DDDDDD;  
+    border-radius: 15px;
+}
+
+button:hover {
+    background-color:rgb(13, 99, 99);
+}
+button:active {
+    background: rgb(68, 184, 184);
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+
+}
