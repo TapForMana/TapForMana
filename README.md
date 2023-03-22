@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TapForMana 
 - 👀 I’m interested in coding and programming! I am a beginner at this, but will soon be able to code the world!
-- 🌱 I’m currently learning HTML, CSS & Java
-- 💞️ I’m looking to collaborate on nothing atm. 
+- 🌱 I’m currently learning HTML, CSS & JavaScript
+- 💞️ I’m looking to collaborate on literally anything. I'd like to move into a web developer role, but I don't have any networks available to me. 
 - 📫 How to reach me ashestoomens@gmail.com
 
 <!---
